@@ -1,0 +1,51 @@
+CustomerName,PurchaseDate,Product,Quantity,PurchaseAmount,Color,IsAvailable,Weight
+Ali Reza,8/1/2023,Bag,3,120000,Red,Yes,70
+Mahsa,8/2/2023,Shoes,2,250000,Blue,Yes,85
+Mohammad,8/3/2023,Pants,2,180000,Green,Yes,75
+Negar,8/3/2023,Shirt,5,150000,Red,Yes,
+Fatemeh,8/4/2023,Bag,4,110000,Yellow,Yes,60
+Ali Reza,8/5/2023,Pants,6,190000,Blue,Yes,70
+Mohammad,8/6/2023,Shoes,3,230000,Green,Yes,
+Negar,8/6/2023,Shirt,4,160000,Red,Yes,65
+Fatemeh,8/7/2023,Bag,8,105000,Red,Yes,1800
+Mahsa,8/8/2023,Pants,6,200000,Blue,Yes,80
+Ali Reza,8/9/2023,Shoes,2,24a000,Green,No,90
+Negar,8/9/2023,Shirt,6,170000,Red,No,
+Mohammad,8/10/2023,Bag,3,115000,Yellow,Yes,50
+Negar,8/12/2023,Shirt,1,175000,Red,Yes,70
+Mahsa,8/11/2023,Shoes,2,260000,Green,,95
+Negar,8/12/2023,Shirt,1,175000,Red,Yes,70
+Ali Reza,8/13/2023,Bag,6,130000,Blue,Yes,60
+Mohammad,8/14/2023,Pants,1,220000,Green,Yes,
+Fatemeh,8/15/2023,Shoes,4,270000,Red,Yes,85
+Mahsa,8/15/2023,Shirt,1,www,Yellow,Yes,70
+Maryam,8/16/2023,Pants,5,,Blue,No,75
+John,8/16/2023,Shoes,9,,Green,No,
+Emily,8/17/2023,Bag,1,,Red,No,65
+,,,,,,,
+Ali,8/18/2023,Pants,2,,Blue,No,
+Negar,8/18/2023,Shoes,9,,Green,Yes,80
+Mahsa,8/19/2023,Bag,1,,Red,No,75
+Reza,8/19/2023,Shirt,8,,Yellow,No,70
+Fatemeh,8/20/2023,Pants,2,,Blue,Yes,85
+Mohammad,8/20/2023,Shoes,4,,Green,No,
+Kamran,8/21/2023,Pants,1,500000,Yellow,Yes,95
+Mehran,8/22/2023,Shoes,5,800000,Red,Yes,100
+Amir Reza,8/23/2023,Bag,8,700000,Blue,Yes,
+Ali,8/24/2023,Shirt,2,600000,Green,Yes,85
+Kamran,8/29/2023,Shoes,6,150000,Blue,Yes,82
+Nazanin,8/26/2023,Dress,7,160000,Green,No,NaN
+Arman,8/26/2023,Shoes,2,175000,Blue,Yes,78
+Leyla,8/27/2023,Shirt,4,110000,Red,Yes,NaN
+,,,,,,,
+Sahar,8/29/2023,Bag,3,280000,Yellow,Yes,NaN
+Kamran,8/29/2023,Shoes,6,150000,Blue,Yes,82
+Mitra,,Pants,8,200000,Red,Yes,NaN
+Behzad,8/31/2023,Shirt,2,180000,Green,Yes,88
+Samaneh,8/31/2023,Shoes,7,120000,Yellow,Yes,NaN
+Navid,9/1/2023,Bag,2,210000,Blue,Yes,90
+Niloofar,9/1/2023,Shirt,4,145000,Green,Yes,NaN
+,,,,,,,
+Neda,,Shoes,3,230000,Blue,Yes,NaN
+Saeed,9/3/2023,Shirt,4,180000,Green,Yes,75
+Marjan,9/4/2023,Bag,7,135000,Yellow,Yes,NaN
