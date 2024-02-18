@@ -1,7 +1,6 @@
 
 
 import pandas as pd
-# CustomerName,PurchaseDate,Product,Quantity,PurchaseAmount,Color,IsAvailable,Weight
 
 def fill_nan_value(data):
     data.fillna(value = {
