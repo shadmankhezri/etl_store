@@ -1,2 +1,2 @@
 # etl_store
-Performing ITEL process on the data of a store
+Performing ETL process on the data of a store
